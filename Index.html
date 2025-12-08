@@ -1,0 +1,134 @@
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="YeeShen">
+    <meta name="description" content="Home Page">
+    <meta name="date created" content="2 Dec 2025">
+    <title>Living Well - Home</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./CSS/normalize.css">
+    <link rel="stylesheet" href="./CSS/style.css">
+    <script src="./JS/script.js"></script>
+</head>
+
+<body>
+
+<header>
+    <div class="logo">
+        <img src="./IMG/Logo.png.png" alt="Living Well Logo">
+    </div>
+    <h1>Living Well</h1>
+</header>
+
+<nav>
+  <div class="hamburger" onclick="toggleMenu()">☰</div>
+    <ul>
+        <li><a href="Index.html" class="active">Home</a></li>
+        <li><a href="About_us.html">About Us</a></li>
+        <li><a href="Overview.html">Overview</a></li>
+
+        <li class="dropdown">
+            <a href="#">Health Topics ▼</a>
+            <ul class="dropdown-menu">
+                <li><a href="./Subpages/Nutrition.html">[Nutrition]</a></li>
+                <li><a href="./Subpages/fitness.html">[Fitness]</a></li>
+                <li><a href="./Subpages/Mental Health.html">[Mental Health]</a></li>
+                <li><a href="./Subpages/Sleep and rest.html">[Sleep & Rest]</a></li>
+                <li><a href="./Subpages/LifestyleChoices.html">[Lifestyle Choices]</a></li>
+            </ul>
+        </li>
+
+        <li><a href="ContactUs.html">Contact Us</a></li>
+    </ul>
+</nav>
+
+<section class="home-hero">
+    <img src="./IMG/iStock_84940177_LARGE.jpg" class="home-hero-img" alt="Healthy Living">
+    <div class="home-hero-text">
+        <h2>Welcome to Living Well</h2>
+        <p>Your journey to healthier living starts today.</p>
+        <a href="About_us.html" class="hero-btn">Learn More</a>
+    </div>
+</section>
+
+<section class="intro-section animate-up">
+    <h2>Live Better. Feel Better.</h2>
+    <p>
+        At Living Well, our purpose is to help you achieve a balanced and healthy lifestyle.
+        Whether it’s better nutrition, consistent fitness, strong mental well-being, or quality sleep,
+        we provide reliable guidance to support your journey.
+    </p>
+</section>
+
+<section class="home-topics animate-up">
+    <h2>Explore Our Health Topics</h2>
+
+    <div class="home-topic-grid">
+
+        <a href="./Subpages/Nutrition.html" class="topic-card">
+            <img src="./IMG/Berry Delight with Dark Chocolate and Creamy Grain Base.jpeg" alt="Nutrition">
+            <h3>Nutrition</h3>
+            <p>Learn how to eat well for long-term health.</p>
+        </a>
+
+        <a href="./Subpages/fitness.html" class="topic-card">
+            <img src="./IMG/people-performing-sports-activities-exercise-wholesome-food-concept-healthy-habits-active-lifestyle-fitness-148134951.webp" alt="Fitness">
+            <h3>Fitness</h3>
+            <p>Stay active and build a stronger body.</p>
+        </a>
+
+        <a href="./Subpages/Mental Health.html" class="topic-card">
+            <img src="./IMG/istockphoto-1294477039-612x612.jpg" alt="Mental Health">
+            <h3>Mental Health</h3>
+            <p>Strengthen your emotional and mental wellness.</p>
+        </a>
+
+        <a href="./Subpages/Sleep and rest.html" class="topic-card">
+            <img src="./IMG/download.jpg" alt="Sleep and Rest">
+            <h3>Sleep & Rest</h3>
+            <p>Improve your sleep patterns and revive energy.</p>
+        </a>
+
+        <a href="./Subpages/LifestyleChoices.html" class="topic-card">
+            <img src="./IMG/istockphoto-641086870-612x612.jpg" alt="Lifestyle Choices">
+            <h3>Lifestyle Choices</h3>
+            <p>Develop healthy habits that last a lifetime.</p>
+        </a>
+    </div>
+</section>
+
+<footer>
+    <div class="feedback">
+        <h3>Feedback</h3>
+        <form>
+
+            <label>Name:</label>
+            <input type="text" placeholder="Your Name" required>
+
+            <label>Email:</label>
+            <input type="email" placeholder="Your Email" required>
+
+            <label>Message:</label>
+            <textarea placeholder="Your Feedback" required></textarea>
+
+            <button type="submit">Submit</button>
+        </form>
+    </div>
+
+    <div class="social-links">
+        <h3>Follow Us</h3>
+        <ul>
+            <li><a href="https://www.instagram.com" target="_blank">Instagram</a></li>
+            <li><a href="https://www.telegram.com" target="_blank">Telegram</a></li>
+        </ul>
+
+        <h4>Contact Us</h4>
+        <ul class="phone-numbers">
+            <li>WhatsApp: +65 8566 7890</li>
+            <li>Phone: +65 8536 7890</li>
+        </ul>
+    </div>
+</footer>
+</body>
+</html>
