@@ -64,16 +64,16 @@ The video I used and trimmed up for my website is
 - (https://youtu.be/04kAfDdqEfg?si=e1VRyWkIXX9DEM_n)
 
 The photos I used:
-- (https://www.alphagamma.eu/entrepreneurship/3-reasons-helping-people-good-business/)
-- (https://www.lummi.ai/photo/acai-bowl-with-fresh-berries-and-chocolate-6OhVZ)
-- (https://centerforbrainhealth.org/charisma/children-and-families)
-- (https://pngtree.com/freepng/conceptualizing-the-bedroom-a-serene-haven-for-sleep-rest-dreams-and-relaxation-amidst-nighttime-fatigue-and-the-need-for-power-naps-vector_12727274.html)
-- (https://www.news-medical.net/news/20230501/What-are-the-benefits-of-exercise-on-cardiovascular-health.aspx)
-- (https://www.huffpost.com/entry/how-traveling-solo-has-improved-my-romantic-relationship_b_59aecad2e4b0c50640cd6221)
-- (www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi93c6u7a2RAxWyUWwGHaQwIsYQn5YKegQIFRAB&url=https%3A%2F%2Fwww.bodylogicmd.com%2Fblog%2Flifestyle-changes-to-make-when-you-are-on-bhrt%2F&usg=AOvVaw3RiqmbTPpln8-XXQCHUneU&opi=89978449)
-- (https://www.hcamag.com/asia/specialisation/mental-health/over-a-third-of-singaporean-workers-at-high-mental-health-risk/555734)
-- (https://pngtree.com/freepng/green-sprout-leaf-logo-design_8782181.html)
-- (https://www.dreamstime.com/people-performing-sports-activities-exercise-wholesome-food-concept-healthy-habits-active-lifestyle-fitness-people-image148134951)
-- (https://www.dreamstime.com/people-working-out-gym-using-equipment-vector-exercising-keeping-fit-barbels-dumbbells-treadmill-running-track-bike-fitness-image237262113)
+- https://www.alphagamma.eu/entrepreneurship/3-reasons-helping-people-good-business/
+- https://www.lummi.ai/photo/acai-bowl-with-fresh-berries-and-chocolate-6OhVZ
+- https://centerforbrainhealth.org/charisma/children-and-families
+- https://pngtree.com/freepng/conceptualizing-the-bedroom-a-serene-haven-for-sleep-rest-dreams-and-relaxation-amidst-nighttime-fatigue-and-the-need-for-power-naps-vector_12727274.html
+- https://www.news-medical.net/news/20230501/What-are-the-benefits-of-exercise-on-cardiovascular-health.aspx
+- https://www.huffpost.com/entry/how-traveling-solo-has-improved-my-romantic-relationship_b_59aecad2e4b0c50640cd6221
+- www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwi93c6u7a2RAxWyUWwGHaQwIsYQn5YKegQIFRAB&url=https%3A%2F%2Fwww.bodylogicmd.com%2Fblog%2Flifestyle-changes-to-make-when-you-are-on-bhrt%2F&usg=AOvVaw3RiqmbTPpln8-XXQCHUneU&opi=89978449
+- https://www.hcamag.com/asia/specialisation/mental-health/over-a-third-of-singaporean-workers-at-high-mental-health-risk/555734
+- https://pngtree.com/freepng/green-sprout-leaf-logo-design_8782181.html
+- https://www.dreamstime.com/people-performing-sports-activities-exercise-wholesome-food-concept-healthy-habits-active-lifestyle-fitness-people-image148134951
+- https://www.dreamstime.com/people-working-out-gym-using-equipment-vector-exercising-keeping-fit-barbels-dumbbells-treadmill-running-track-bike-fitness-image237262113
 ### Acknowledgements
 I got inspiration from the [Healthhub.sg](https://www.healthhub.sg) and [World Health Organisation](https://www.who.int)website for the different pages.
